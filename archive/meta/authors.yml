@@ -1,0 +1,11 @@
+authors:
+  - slug: default
+    name: default
+    introduction: test
+  - slug: sparrowhawk
+    name: sparrowhawk
+    introduction: sparrowhawk
+  - slug: Jenny Wong 
+    name: Jenny Wong
+    introduction: Website manager
+  
